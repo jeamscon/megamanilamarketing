@@ -22,7 +22,7 @@ body {
     font-size: .9rem;
 }
 .home {
-    padding: 250px;
+    padding-top: 100px;
     justify-content: center;
     align-items: center;
     display: flex;
